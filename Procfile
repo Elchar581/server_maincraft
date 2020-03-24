@@ -1,0 +1,1 @@
+web: minecraft_server.1.12.2.jar

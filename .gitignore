@@ -139,3 +139,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+/gfgh.zip
+!/gfgh.zip
